@@ -4,4 +4,3 @@ def show(name):
 
 if __name__ == '__main__':
     show('list')
-    
